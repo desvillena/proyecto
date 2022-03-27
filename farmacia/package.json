@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "devextreme": "^21.2.6",
     "moment": "^2.29.1",
     "mongoose": "^6.2.7",
     "next": "12.1.0",
